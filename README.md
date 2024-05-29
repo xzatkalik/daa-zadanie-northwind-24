@@ -1,11 +1,11 @@
 # ZADANIE 
 ## Všeobecné pokyny
 
-- Vytvorte novy repoziár pre toto zadanie
-- Pre každú úlohu vytvorte samostatný php súbor identifikovaný názvom úlohy (názov uvediem)
-- Importujte si databázu Northwind.sql
-- Pre komunikaciu s databázov vytvorte používateľa s názvom: "userdb" a heslom: "databaza", budeme mať všetci jednotné
-- súbor na komunikáciu s databácou pomenujte connect.php a vo všetkých ostatných php súboroch budete tento súbor volať pomocou volania: 
+- Vytvorte **novy repoziár** pre toto zadanie
+- Pre každú úlohu vytvorte **samostatný php súbor** identifikovaný názvom úlohy (názov uvediem)
+- **Importujte** si databázu Northwind.sql
+- Pre komunikaciu s databázov **vytvorte používateľa** s názvom: "userdb" a heslom: "databaza", budeme mať všetci jednotné
+- **súbor** na komunikáciu s databázou **pomenujte connect.php** a vo všetkých ostatných php súboroch budete tento súbor volať **pomocou** volania: 
 ```php
 require_once "connect.php";
 ```
@@ -36,10 +36,10 @@ Vytvorte vo vašom repozitáre súbor  uloha02.php
   - v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 02"** a pod ním vypíšte:  Aká je celková suma, ktorú nám doteraz každý zákazník zaplatil (Tip: QUICK-Stop nám zaplatil 110 277,32)
   - v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 03"** a pod ním vypíšte:  10 najpredávanejších produktov (Tip: Najpredávanejší produkt je „Côte de Blaye“)
   - v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 04"** a pod ním vytvorte zobrazenie s celkovými výnosmi na zákazníka
-   - v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 05"** a pod ním vypíšte: Ktorí zákazníci zo Spojeného kráľovstva nám zaplatili viac ako 1 000 dolárov (6 riadkov)
-   - v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 06"** a pod ním vypíšte: Koľko zaplatil každý zákazník spolu a koľko v roku 1997. Chceme jednu sadu výsledkov s nasledujúcimi stĺpcami:  CustomerID,  Meno spoločnosti,  Krajina
-    - v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 07"** a pod ním vypíšte:Celkový počet zákazníkov zo všetkých objednávok
-    - v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 08"** a pod ním vypíšte:Celkový počet zákazníkov z 1997 objednávok Môžete to vyskúšať pomocou pohľadov, poddotazov alebo dočasných tabuliek. Skúste použiť zobrazenie [Súčet objednávok], ktoré už v databáze existuje. (91 riadkov, zákazník "Centro comercial Moctezuma" má celkové príjmy 100,80 a nulové (0) príjmy v roku 1997)
+- v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 05"** a pod ním vypíšte: Ktorí zákazníci zo Spojeného kráľovstva nám zaplatili viac ako 1 000 dolárov (6 riadkov)
+- v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 06"** a pod ním vypíšte: Koľko zaplatil každý zákazník spolu a koľko v roku 1997. Chceme jednu sadu výsledkov s nasledujúcimi stĺpcami:  CustomerID,  Meno spoločnosti,  Krajina
+- v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 07"** a pod ním vypíšte:Celkový počet zákazníkov zo všetkých objednávok
+- v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 08"** a pod ním vypíšte:Celkový počet zákazníkov z 1997 objednávok Môžete to vyskúšať pomocou pohľadov, poddotazov alebo dočasných tabuliek. Skúste použiť zobrazenie [Súčet objednávok], ktoré už v databáze existuje. (91 riadkov, zákazník "Centro comercial Moctezuma" má celkové príjmy 100,80 a nulové (0) príjmy v roku 1997)
  
  <!---
  ## Úloha 03
