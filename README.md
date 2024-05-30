@@ -3,7 +3,7 @@
 
 - Vytvorte **novy repoziár** pre toto zadanie
 - Pre každú úlohu vytvorte **samostatný php súbor** identifikovaný názvom úlohy (názov uvediem)
-- **Importujte** si databázu Northwind.sql
+- **Importujte** si databázu northwindmysql.sql
 - Pre komunikaciu s databázov **vytvorte používateľa** s názvom: "userdb" a heslom: "databaza", budeme mať všetci jednotné
 - **súbor** na komunikáciu s databázou **pomenujte connect.php** a vo všetkých ostatných php súboroch budete tento súbor volať **pomocou** volania: 
 ```php
