@@ -39,7 +39,7 @@ Vytvorte vo vašom repozitáre súbor  uloha02.php
 - v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 05"** a pod ním vypíšte: Ktorí zákazníci zo Spojeného kráľovstva nám zaplatili viac ako 1 000 dolárov 
 - v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 06"** a pod ním vypíšte: Koľko zaplatil každý zákazník spolu a koľko v roku 1995. Chceme jednu sadu výsledkov s nasledujúcimi stĺpcami:  CustomerID,  Meno spoločnosti,  Krajina
 - v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 07"** a pod ním vypíšte:Celkový počet zákazníkov zo všetkých objednávok
-- v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 08"** a pod ním vypíšte:Celkový počet zákazníkov z 1997 objednávok Môžete to vyskúšať pomocou pohľadov, poddotazov alebo dočasných tabuliek. Skúste použiť zobrazenie [Súčet objednávok], ktoré už v databáze existuje. 
+- v súbore vyrobte nadpis prvej kategórie **h1 s názvom "požiadavka 08"** a pod ním vypíšte:Celkový počet zákazníkov z 1996 objednávok Môžete to vyskúšať pomocou pohľadov, poddotazov alebo dočasných tabuliek. Skúste použiť zobrazenie [Súčet objednávok], ktoré už v databáze existuje. 
  
  <!---
  ## Úloha 03
